@@ -6,6 +6,7 @@ import "gopkg.in/redis.v5"
 func main() {
 	fmt.Printf("Hello world:2")
 	ExampleNewClient()
+	fmt.Printf("Hello World2")
 }
 
 func ExampleNewClient() {
